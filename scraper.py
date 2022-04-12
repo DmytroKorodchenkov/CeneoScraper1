@@ -1,3 +1,5 @@
+import json
+from textwrap import indent
 import requests
 from bs4 import BeautifulSoup
 
@@ -24,5 +26,19 @@ pros = [item.text.strip() for item in pros]
 cons = opinion.select("div.review-feature__title--negatives ~ div.review-feature__item")
 cons = [item.text.strip() for item in cons]
 
+single_opinion = {
+    "opinion_id": opinion_id,
+    "author": author,
+    "rcmd": rcmd,
+    "score": score,
+    "content": content,
+    "posted_on": posted_on,
+    "bought_on": bought_on,
+    "useful_for": useful_for,
+    "useless_for": useless_for,
+    "pros": pros,
+    "cons": cons,
+}
+print(json.dumps(single_opinion, indent = 4, ensure_ascii = False))
 print(type(cons))
 print(cons)
