@@ -19,13 +19,12 @@ hyperframe==5.2.0
 idna==2.10
 kiwisolver==1.4.2
 libretranslatepy==2.1.1
-logging==0.4.9.6
 lxml==4.8.0
 matplotlib==3.5.2
-numpy==1.22.3
+numpy==1.22.4
 packaging==21.3
 pandas==1.4.2
-Pillow==9.1.0
+Pillow==9.1.1
 pycodestyle==2.8.0
 pyparsing==3.0.9
 python-dateutil==2.8.2

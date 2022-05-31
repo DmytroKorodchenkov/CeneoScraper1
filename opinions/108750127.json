@@ -4,267 +4,239 @@
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka Philips Sonicare z technologią SenseIQ jest moją pierwszą szczoteczką soniczną. To model dla osób ceniących sobie profesjonalne oczyszczanie w domowych warunkach oraz ceniących sobie nowinki technologiczne, dzięki którym szczotkowanie staje się nie tylko przyjemne i łatwe, ale przede wszystkim indywidualnie dopasowane do stylu szczotkowania. Zęby po szczotkowaniu są dogłębnie oczyszczone, dziąsła nie podrażnione a i odcień zębów stał się bielszy. Niesamowicie poręczna, wydajna (nie ma konieczności częstego ładowania) ale przede wszystkim łatwa w użyciu sprawia, że moja higiena stała się prawdziwą przyjemnością.",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-02 12:39:44",
         "bought_on": null,
         "usefull": 2,
         "useless": 3,
         "opinion_id": "14675104",
-        "content_en": "QUERY LENGTH LIMIT EXCEDEED. MAX ALLOWED QUERY : 500 CHARS"
+        "content_en": "The Philips Sonicare brush with Senseiq technology is my first sonic brush.It is a model for people who value professional cleansing in home conditions and value technological innovations, thanks to which brushing becomes not only pleasant and easy, but above all individually tailored to the brush style.The teeth after brushing are thoroughly cleaned, the gums are not irritated and the shade of teeth became whiter.Incredibly handy, efficient (there is no need for frequent charging) but above all easy to use makes my hygiene a real pleasure.",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     },
     {
         "author": "Gothes",
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka jest bardzo dobra! Wygodna w użytkowaniu, aplikacja dobrze z nią współpracuje. Spełniła moje oczekiwania. POLECAM :)",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-08-25 19:07:09",
         "bought_on": "2021-07-25 19:05:46",
         "usefull": 1,
         "useless": 0,
         "opinion_id": "14884357",
-        "content_en": "The toothbrush is very good! Convenient to use, the application works well with it. She met my expectations. I RECOMMEND :)"
+        "content_en": "The brush is very good!Comfortable to use, the application works well with it.She met my expectations.I RECOMMEND :)",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "m...k",
         "rcmd": true,
         "score": 5.0,
         "content": "Ciężko mu coś powiedzieć o tym produkcie ale pierwsze wrażenie jest fajne",
-        "pros": [],
-        "cons": [],
+        "pros": "",
+        "cons": "",
         "posted_on": "2022-04-25 14:39:35",
         "bought_on": "2022-04-24 07:30:36",
         "usefull": 1,
         "useless": 1,
         "opinion_id": "16005193",
-        "content_en": "It's hard for him to say anything about the product, but the first impression is nice."
+        "content_en": "It's hard for him to say something about this product but the first impression is cool",
+        "pros_en": "",
+        "cons_en": ""
     },
     {
         "author": "a...1",
         "rcmd": true,
         "score": 4.0,
         "content": "Dobry produkt, ale ta cena.",
-        "pros": [],
-        "cons": [],
+        "pros": "",
+        "cons": "",
         "posted_on": "2022-05-06 18:12:47",
         "bought_on": "2022-04-02 10:39:13",
         "usefull": 1,
         "useless": 0,
         "opinion_id": "16052931",
-        "content_en": "It's a good product, but it's the price."
+        "content_en": "Good product, but this price.",
+        "pros_en": "",
+        "cons_en": ""
     },
     {
         "author": "r...n",
         "rcmd": true,
         "score": 4.5,
         "content": "jest ok",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-11-19 06:39:19",
         "bought_on": "2021-10-19 08:45:08",
         "usefull": 1,
         "useless": 0,
         "opinion_id": "15228738",
-        "content_en": "it's OK"
+        "content_en": "it's ok",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "a...h",
         "rcmd": true,
         "score": 5.0,
         "content": "Genialna szczoteczka!",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-12-31 11:04:51",
         "bought_on": "2021-12-28 13:55:28",
         "usefull": 1,
         "useless": 0,
         "opinion_id": "15482958",
-        "content_en": "That's a brilliant toothbrush!"
+        "content_en": "Brilliant brush!",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "DorotaKatarzyna",
         "rcmd": true,
         "score": 5.0,
         "content": "Do tej pory używałam zwykłej szczoteczki elektrycznej, ale dopiero jak zaczęłam używać szczoteczki sonicznej Philips to mogę powiedzieć, że higiena mojej jamy ustnej jest na najwyższym poziomie. Widzę wyraźną różnicę w odcieniu moich zębów - stały się dużo bielsze! Ogromnym plusem jest również to, że szczoteczkę mogę ładować tylko raz na 2 tygodnie! Idealnie szczotkuje i przypomina o wymianie końcówki, niesamowite!",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-09 07:59:11",
         "bought_on": null,
         "usefull": 1,
         "useless": 0,
         "opinion_id": "14701417",
-        "content_en": "So far, I've been using a regular electric toothbrush, but it's only when I started using Philips sonic toothbrush that I can say that the hygiene of my oral cavity is at the highest level. I see a clear difference in the shade of my teeth - they have become much whiter! A huge plus is that I can only charge my toothbrush once every 2 weeks! Perfectly brushes and reminds you to replace the tip, amazing!"
+        "content_en": "Until now, I used an ordinary electric brush, but only when I started using the Philips sonic brush, I can say that my oral hygiene is at the highest level.I see a clear difference in the shade of my teeth - they have become much whiter!A huge plus is that I can load the brush only once every 2 weeks!It brushes perfectly and reminds you of replacing the tip, amazing!",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "Użytkownik Ceneo",
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka soniczna Philips jest rewelacyjna, działa bez zarzutu, doskonale czyści zęby. Końcówka jest delikatna, a jednocześnie bardzo dobrze czyści. Szczoteczka soniczna Philips ma wiele ciekawych funkcji, np. kontroluję siłę nacisku na zęby i gdy nacisk jest za mocny wydaje dźwięk. Bardzo dobrze działa z aplikacją Philips Sonicare.",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-02 12:58:21",
         "bought_on": null,
         "usefull": 0,
         "useless": 1,
         "opinion_id": "14675203",
-        "content_en": "Philips sonic toothbrush is sensational, works flawlessly, brushes perfectly. The tip is delicate and at the same time it cleans very well. Philips sonic toothbrush has many interesting functions, e.g. I control the pressure on my teeth and when the pressure is too strong it makes a sound. Works very well with Philips Sonicare."
+        "content_en": "The Philips sonic brush is sensational, works flawlessly, perfectly cleans your teeth.The tip is delicate and at the same time cleans very well.The Philips sonic brush has many interesting functions, e.g. I control the strength of pressure on the teeth and when the pressure is too strong makes sound.It works very well with the Philips Sonicare application.",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     },
     {
         "author": "Monikaw",
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka jest bardzo fajna. Odkąd jej używam, czuje bardzo dużą różnicę w \"czystości\" zębów. Szczoteczka dobrze radzi sobie z wymywaniem pozostałości jedzenia i dobrze dociera nawet w trudniej dostępne miejsca. Jestem bardzo zadowolona z aplikacji, która podczas mycia dokładnie podpowiada, co i jak długo myć.",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-03 16:24:21",
         "bought_on": null,
         "usefull": 1,
         "useless": 0,
         "opinion_id": "14679143",
-        "content_en": "The toothbrush is very nice. Ever since I used it, I've felt a very big difference in the \"cleanliness\" of my teeth. The toothbrush is good at leaching food residues and reaches even in hard-to-reach areas. I am very happy with the application, which, during washing, tells you exactly what to wash and how long."
+        "content_en": "The brush is very cool.Since I use it, I feel a very big difference in \"cleanliness\" of teeth.The brush copes well with leaking food residues and reaches even more difficult places.I am very happy with the application, which during washing tells exactly what and how long to wash.",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "Aleksandra",
         "rcmd": true,
         "score": 5.0,
         "content": "Najlepsza szczoteczka , której do tej pory używałam . Bardzo dobrze i dokładnie czyści nie tylko same żeby , ale i przestrzeń między nimi . A dodatkowo jest delikatna dla dziąseł . Super jest to , że możemy sami wybrać sobie intensywność mycia dzięki 3 stopniowej regulacji .",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-06-17 20:35:30",
         "bought_on": null,
         "usefull": 0,
         "useless": 1,
         "opinion_id": "14615478",
-        "content_en": "Best toothbrush I've ever used . Very well and thoroughly cleans not only themselves , but also the space between them . Plus, it's gentle on the gums . The great thing is that we can choose our own washing intensity thanks to a 3-step adjustment ."
+        "content_en": "The best brush that I have used so far.It cleans very well and thoroughly not only alone, but also the space between them.And in addition, it is delicate for gums.It is great that we can choose the intensity of washing ourselves thanks to 3 degrees.",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     },
     {
         "author": "Użytkownik Ceneo",
         "rcmd": true,
         "score": 5.0,
         "content": "Pierwszy raz jestem tak zaskoczona efektem używania szczoteczki do zębów. Szczoteczka PHILIPS SONICARE 9900 PRESTIGE HX9992/11 jest świetna. Dokładnie myje zęby ale również przestrzeń między nimi. Jest delikatna a zarazem skuteczna. Dodatkowo jest bardzo ładnie i solidnie wykonana. Polecam",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-01 21:24:37",
         "bought_on": null,
         "usefull": 0,
         "useless": 1,
         "opinion_id": "14672324",
-        "content_en": "This is the first time I've been so surprised by the effect of using a toothbrush. The PHILIPS SONICARE 9900 PRESTIGE HX9992/11 toothbrush is great. He brushes his teeth thoroughly, but he also brushes the space between them. It is delicate and effective at the same time. In addition, it is very nice and solidly made. I recommend"
+        "content_en": "For the first time I am so surprised by the effect of using a toothbrush.The Philips Sonicare 9900 Prestige HX9992/11 brush is great.He brushes his teeth thoroughly but also the space between them.It is delicate and effective.In addition, it is very nice and solidly made.I recommend",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     },
     {
         "author": "Użytkownik Ceneo",
         "rcmd": true,
         "score": 5.0,
         "content": "Miękkość, delikatność i dokładność to jest to czego oczekiwałam od szczoteczek elektrycznych i bardzo się cieszę, że trafiłam na Philips Sonicare. Efekt czułam (o dziwo!) po pierwszym użyciu i zakochałam się w subtelnym wyglądzie :) Prosta aplikacja, łatwa obsługa, także jestem na tak :)",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-02 14:07:10",
         "bought_on": null,
         "usefull": 0,
         "useless": 1,
         "opinion_id": "14675487",
-        "content_en": "Softness, delicacy and accuracy is what I expected from electric toothbrushes and I am very glad that I found Philips Sonicare. The effect I felt (surprisingly!) after the first use and I fell in love with the subtle appearance :) Simple application, easy operation, I am also like this :)"
+        "content_en": "Softness, delicacy and accuracy is what I expected from electric brushes and I am very happy that I came across Philips Sonicare.I felt the effect (surprisingly!) After the first use and I fell in love with a subtle appearance :) Simple application, easy operation, I am also like that :)",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     },
     {
         "author": "Użytkownik Ceneo",
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka jest wg najlepszym produktem do higieny jamy ustnej na rynku. Doskonale czyści zęby i masuje dziąsła, jest cicha i wygodna w użyciu a jej dodatkowe funkcje jak aplikacja i cała sztuczna inteligencja pozwalają naprawdę dokładnie zadbać o zdrowy uśmiech.",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-12 10:43:56",
         "bought_on": null,
         "usefull": 0,
         "useless": 1,
         "opinion_id": "14709551",
-        "content_en": "The toothbrush is according to the best oral care product on the market. Perfectly brushes teeth and massages gums, it is quiet and comfortable to use and its additional features like the app and all the artificial intelligence allow you to really take care of a healthy smile."
+        "content_en": "The brush is according to the best oral hygiene product on the market.Perfectly cleans the teeth and massages the gums, is quiet and convenient to use, and its additional functions such as application and all artificial intelligence allow you to really carefully take care of a healthy smile.",
+        "pros_en": "Travel case. Work.",
+        "cons_en": ""
     },
     {
         "author": "Użytkownik Ceneo",
         "rcmd": true,
         "score": 5.0,
         "content": "Szczoteczka,która naprawdę czyści. Wiele funkcji ,które ulatwiają codzienna higienę jamy ustnej. Doskonale czyszczenie oraz dbałość nie tylko o zęby,ale również o dziasla. Najlepszy wybór!",
-        "pros": [
-            "etui podróżne",
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "etui podróżne.głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-12 11:16:58",
         "bought_on": null,
         "usefull": 1,
         "useless": 0,
         "opinion_id": "14709768",
-        "content_en": "A toothbrush that really cleans. Many features thatfacilitate daily oral hygiene. Excellent cleaning and care not only for the teeth,but also for the gums. The best choice!"
+        "content_en": "A brush that really cleans.Many functions that make everyday oral hygiene.Perfectly cleaning and care not only for teeth, but also for infant.Best choice!",
+        "pros_en": "Travel case. Working speech. Cleaning ease. Use of use",
+        "cons_en": ""
     },
     {
         "author": "dankova.klaudia",
         "rcmd": true,
         "score": 5.0,
         "content": "Rewelacyjny sprzęt do czyszczenia zębów w zaciszu domowym. Idealnie wyprofilowana, piękny design. Świetnie czyści i co najważniejsze jest cicha.",
-        "pros": [
-            "głośność pracy",
-            "łatwość czyszczenia",
-            "wygoda używania"
-        ],
-        "cons": [],
+        "pros": "głośność pracy.łatwość czyszczenia.wygoda używania",
+        "cons": "",
         "posted_on": "2021-07-01 14:42:41",
         "bought_on": null,
         "usefull": 1,
         "useless": 0,
         "opinion_id": "14670690",
-        "content_en": "Sensational equipment for brushing teeth at home. Perfectly shaped, beautiful design. It cleans well and, most importantly, it is quiet."
+        "content_en": "Excellent tooth cleaning equipment at home.Perfectly profiled, beautiful design.It cleans great and most importantly is quiet.",
+        "pros_en": "Volume of work. Cleaning ease.",
+        "cons_en": ""
     }
 ]
