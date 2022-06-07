@@ -81,5 +81,8 @@ while (url):
     except TypeError:
         url = None
 
+if not os.path.exists("opinions"):
+    os.makedirs("opinions")
+    
 with open(f"opinions/{product_id}.json","w", encoding="UTF-8") as f:
     json.dump(all_opinions, f, indent=4, ensure_ascii=False)
