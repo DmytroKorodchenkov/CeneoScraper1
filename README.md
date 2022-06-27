@@ -29,3 +29,12 @@
     c) Using dictionary comprehension to extract all opinion's elements on the basis of opinions' structure dictionary
 6) Adjustment of data types for different opinions' elements
 7) Translation of certain opinion's elements into English
+8) Analysis of extracted opinions
+    i. Basic statistics
+        a. Number of all opinions about the product
+        b. Number of opinions with list of advantages
+        c. Number of opinions with list of disadvantages
+        d. Average score based on stars
+    ii. Plots
+        a. Share of recommendations in total number of opinions
+        b. Frequency histogram of stars
